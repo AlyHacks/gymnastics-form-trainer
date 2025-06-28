@@ -1,0 +1,1 @@
+An AI-powered gymnastics form trainer that tells the user to do specific actions to make it better. It uses a webcam to detect movement and to correct the skills in real time. It corrects push-ups, V-ups, hollow holds, squats, and handstands, which are all valuable to gymnastics conditioning. This is an easy at-home trainer for gymnasts.
